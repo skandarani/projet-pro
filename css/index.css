@@ -1,0 +1,41 @@
+p { color: red;
+    
+    margin: 5px;
+    padding: 10px;
+    margin-bottom: 15px;
+  
+
+}
+#saha{
+    width: 145px;
+}
+
+#faza{
+    border: 10px dotted tomato;
+    margin: 25px;
+    
+}
+a{
+    border: 5px solid green;
+    margin-bottom: 15px;
+    padding-left: 100px;
+   
+
+    
+}
+
+#hedha{
+    color: black
+}
+h1:hover{
+    color:yellow;
+    background: aqua;
+}
+
+.haka{
+    background-color: blue
+}
+a{
+    color:black;
+    
+}
